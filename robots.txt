@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://malinastory.github.io/sitemap/sitemap.txt
